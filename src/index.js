@@ -5,7 +5,8 @@ import './index.css';
 // import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
- React.createElement("h1", {style: {color: "blue" }}, "Hello!"),
+ React.createElement("h1", {style: {color: "blue", textAlign: "center"}}, "Hello!"),
+
   document.getElementById('root')
 );
 
