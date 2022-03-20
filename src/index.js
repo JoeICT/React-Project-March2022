@@ -5,11 +5,12 @@ import './index.css';
 // import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
- React.createElement("h3", {style: {color: "brown", textAlign: "center", backgroundColor: "black", fontFamily: "'Open Sans', sans-serif"}}, "Hello!", " ", "This is Joes React Page", " ", ", Boring I know..."),
+ React.createElement("h2", {style: {color: "brown", textAlign: "center", backgroundColor: "black", fontFamily: "'Open Sans', sans-serif"}}, "Hello!", " ", "This is Joes React Page", " ", ", Boring I know..."),
 
   document.getElementById('root')
 
 
 );
+
 
 // reportWebVitals();
