@@ -5,7 +5,7 @@ import './index.css';
 // import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
- React.createElement("h1", {style: {color: "red", textAlign: "center", backgroundColor: "black", fontFamily: "Square Peg, cursive"}}, "Hello!", " ", "This is Joes React Page", " ", ", Boring I know, but im working on it..."),
+ React.createElement("h1", {style: {color: "teal", textAlign: "center",  backgroundColor: "black", fontFamily: "Square Peg, cursive"}}, "Hello!", " ", "This is Joes React Page", " ", ", Boring I know, but im working on it..."),
 
   document.getElementById('root')
 
